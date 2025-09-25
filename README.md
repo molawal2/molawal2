@@ -32,7 +32,15 @@ Aspiring to join a Security Operations Center (SOC) or work in IAM to gain hands
 - Studying for **CompTIA Security+**  
 
 ## Projects
-- None yet, but working on lab setups for **SOC monitoring** and **IAM simulations**.
+-AWS IAM Project **.
+
+
+•  Identity and Access Management (IAM) → created and tested users with different permissions (Admin, Analyst, Intern). 
+
+•  Amazon S3 (Simple Storage Service) → managed bucket policies, tested upload, delete, read, and list access.
+
+•  Configured and tested role-based access controls for multiple IAM users, demonstrating practical application of the principle of least privilege in AWS S3.                       
+
 
 ---
 
