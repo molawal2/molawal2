@@ -34,9 +34,12 @@ Aspiring to join a Security Operations Center (SOC) or work in IAM to gain hands
 ## Projects
 
 
--Splunk SIEM Dashboard Personal Project **.               						       
+-Splunk SIEM Dashboard Personal Project **.     
+
 •	Built a SIEM dashboard in Splunk to monitor failed logins (401/403) and all events from sample log data.
+
 •	Applied log filtering and visualization techniques to identify potential security incidents.
+
 •	Gained hands-on experience with SOC workflows, event monitoring, and incident detection.
           
 
