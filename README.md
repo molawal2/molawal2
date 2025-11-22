@@ -29,7 +29,8 @@ Aspiring to join a Security Operations Center (SOC) or work in IAM to gain hands
 </div>
 
 ## Certifications
-- Studying for **CompTIA Security+**  
+- Studying for **CompTIA Security+**
+- TATA - Cybersecurity Analasyt IAM 
 
 ## Projects
 
