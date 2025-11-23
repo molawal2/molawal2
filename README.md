@@ -33,7 +33,15 @@ Aspiring to join a Security Operations Center (SOC) or work in IAM to gain hands
 - TATA - Cybersecurity Analsyt IAM 
 
 ## Projects
+# AI Agent Creation Using n8n – Wayfair Externship
 
+## Project Overview
+This project demonstrates building a small AI agent using n8n as part of my Wayfair externship. The AI agent tracks data, applies logic, and generates automated messages based on input conditions.
+
+## Key Features
+- Built a workflow in n8n that processes input data and applies logic.
+- Created conditional outcomes based on data (e.g., sunny vs. rainy weather).
+- Developed understanding of automation logic, decision-making, and workflow management in AI tools.
 
 -Splunk SIEM Dashboard Personal Project **.     
 
