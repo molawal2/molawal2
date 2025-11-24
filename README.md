@@ -38,6 +38,8 @@ Aspiring to join a Security Operations Center (SOC) or work in IAM to gain hands
 
 • Built a logic-based AI automation in n8n, designing a workflow with triggers, code nodes, conditional logic, and dynamic message outputs as part of
 Wayfair’s AI Automation Externship.
+
+
 • Developed hands-on skills in workflow automation, JSON data handling, and decision-based AI logic while completing Project 1 of the 5-part AI
 agent build for Wayfair.
 
