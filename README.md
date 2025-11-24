@@ -34,11 +34,12 @@ Aspiring to join a Security Operations Center (SOC) or work in IAM to gain hands
 
 ## Projects
 
-## AI Agent Creation Using n8n – Wayfair Externship
+## AI Agent Development Project - Wayfair Externship
 
-- Built a workflow in n8n that processes input data and applies logic.
-- Created conditional outcomes based on data (e.g., sunny vs. rainy weather).
-- Developed understanding of automation logic, decision-making, and workflow management in AI tools.
+• Built a logic-based AI automation in n8n, designing a workflow with triggers, code nodes, conditional logic, and dynamic message outputs as part of
+Wayfair’s AI Automation Externship.
+• Developed hands-on skills in workflow automation, JSON data handling, and decision-based AI logic while completing Project 1 of the 5-part AI
+agent build for Wayfair.
 
 ## Splunk SIEM Dashboard Personal Project **.     
 
